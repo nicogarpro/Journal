@@ -9,5 +9,6 @@ A simple program created to save ideas and thoughts in a simple file, with day a
 - Saved in "journal.txt" file until deleted
 - Simple, easy to understand
 
-Contributions are always welcome!
+To report issues, please go to `Issues` to report them, and we will work on them as soon as posible.
 
+Contributions are always welcome!
